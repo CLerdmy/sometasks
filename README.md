@@ -26,4 +26,4 @@ examcommittee:
 поэтому следует вернуть 0.
 
 minidb:
-my realisation if database
+my realisation of database
